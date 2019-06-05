@@ -3,7 +3,7 @@
 <img src="image/zcash_pinnacle_of_privacy.jpg" width="50%"/>
 ## Introduction
 
-The Zcash posters on this site are inspired by vintage travel posters and vintage propaganda posters. They are the result of an ongoing collaboration between Howard Loo (a member of the Zcash community and founder of the [Ycash Foundation](https://www.ycash.xyz)) and artist [Steve Thomas](https://www.stevethomasart.com).
+The Zcash posters on this site are inspired by vintage travel posters and vintage propaganda posters. They are the result of an ongoing collaboration between artist [Steve Thomas](https://www.stevethomasart.com) and Howard Loo (a member of the Zcash community and founder of the [Ycash Foundation](https://www.ycash.xyz)) and .
 
 ## Get the Posters!
 
