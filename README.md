@@ -15,7 +15,7 @@ Steve Thomas has created artwork under licenses from LucasFilm, Disney, Fox, Sta
 
 Steve draws inspriation from a number of sources, including vintage posters, early 20th century propaganda art, early 20th century product art, and mid 20th century retro-futuristic art.
 
-No matter what the subject matter, from Blink-82 concerts to Star Wars to the Minnesota Vikings Hall of Fame, Steve's poster art in embued with creativity, beauty, and (often) humor.
+No matter what the subject matter, from Blink-82 concerts to Star Wars to the Minnesota Vikings Hall of Fame, Steve's poster art is embued with creativity, beauty, and (often) humor.
 
 Prints of many of Steve's posters are available at https://www.stevethomasart.com.
 
