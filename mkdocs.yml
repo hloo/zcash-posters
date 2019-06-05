@@ -1,0 +1,14 @@
+site_name: Zcash Posters
+
+theme:
+  name: 'material'
+  logo: 'image/zcash-icon-white.png'
+  favicon: 'image/zcash-icon-black.png'
+
+  palette:
+    primary: 'teal'
+    accent: 'teal'
+nav:
+  - Home: index.md
+  - Travel Posters: travel.md
+  - Propaganda Posters: propaganda.md
