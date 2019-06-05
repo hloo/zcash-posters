@@ -2,12 +2,12 @@
 
 ## Marketers Are Watching
 
-![](/image/zcash_propaganda_marketers.jpg)
+![](image/zcash_propaganda_marketers.jpg)
 
 ## Identity Thieves Are Watching
 
-![](/image/zcash_propaganda_identity_thieves.jpg)
+![](image/zcash_propaganda_identity_thieves.jpg)
 
 ## Avoid Credit Card Fees
 
-![](/image/zcash_propaganda_low_fees.jpg)
+![](image/zcash_propaganda_low_fees.jpg)

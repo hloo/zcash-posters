@@ -1,6 +1,6 @@
 # The Zcash Poster Project
 
-<img src="/image/zcash_pinnacle_of_privacy.jpg" width="50%"/>
+<img src="image/zcash_pinnacle_of_privacy.jpg" width="50%"/>
 ## Introduction
 
 The Zcash posters on this site are inspired by vintage travel posters and vintage propaganda posters. They are the result of an ongoing collaboration between Howard Loo (a member of the Zcash community and founder of the [Ycash Foundation](https://www.ycash.xyz)) and artist [Steve Thomas](https://www.stevethomasart.com).
@@ -13,7 +13,7 @@ Steve Thomas provides affordable, licensed prints of most of these posters at [w
 
 Download all the posters in one zip file:
 
-[zcash_posters_2019-06-05.zip](/pdf/zcash_posters_2019-06-05.zip)
+[zcash_posters_2019-06-05.zip](pdf/zcash_posters_2019-06-05.zip)
 
 
 ## About the Artist: Steve Thomas
@@ -22,7 +22,7 @@ Steve Thomas has created artwork under licenses from LucasFilm, Disney, Fox, Sta
 
 Steve draws inspiration from a number of sources, including vintage posters, early 20th century propaganda art, early 20th century product art, and mid 20th century retro-futuristic art.
 
-No matter what the subject matter, from [Blink-82 concerts](https://www.stevethomasart.com/concert-posters) to [Star Wars](https://www.stevethomasart.com/large-grid-c23zf) to the [Minnesota Vikings Hall of Fame](https://www.stevethomasart.com/mnvikings), Steve's poster art is embued with creativity, beauty, and (often) humor.
+No matter what the subject matter, from [Blink-82 concerts](https://www.stevethomasart.com/concert-posters) to [Star Wars](https://www.stevethomasart.com/large-grid-c23zf) to the [Minnesota Vikings Hall of Fame](https://www.stevethomasart.com/mnvikings), Steve's poster art is imbued with creativity, beauty, and (often) humor.
 
 Prints of many of Steve's posters are available at [www.stevethomasart.com](https://www.stevethomasart.com).
 
